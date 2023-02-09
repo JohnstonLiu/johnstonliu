@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Johnston Liu and I'm from Vancouver, Canada. I'm currently a freshman at the University of Chicago pursuing a double major in Mathematics & Computer Science. 
 <!--
 **JohnstonLiu/johnstonliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
