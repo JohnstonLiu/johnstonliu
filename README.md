@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Johnston Liu and I'm from Vancouver, Canada. I'm a graduate from the University of Chicago with a double major in Mathematics & Computer Science with a specialization in Computer Systems. 
+My name is Johnston Liu and I'm from Vancouver, Canada. I'm a graduate from the University of Chicago with a double major in Mathematics & Computer Science with a specialization in Computer Systems. I'm currently based in Cambridge, MA.
 
 For more info please see [here](https://www.johnstonliu.me).
 <!--
